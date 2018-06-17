@@ -2,3 +2,4 @@
 Samle Gate Text mining Project
 
 **Basic GATE text tokenization process with Akka Actor model.** 
+[https://gate.ac.uk/]
